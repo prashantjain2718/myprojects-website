@@ -1,0 +1,35 @@
+body{
+    background-color: darkslategrey;
+    color: white;
+}
+a:link{
+    color: rgb(208, 255, 0);
+}
+a:visited{
+    color: azure;
+}
+a:hover{
+    background-color: rgb(255, 0, 0);
+}
+a:active{
+    color:rgb(21, 233, 180);
+}
+h1{
+    text-shadow:3px 6px 3px #eceb3b;
+    color: aqua;
+    text-align: center;
+    font-size: 3em;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+article{
+    box-shadow: 5px 6px 13px 5px #d88787;;
+    box-sizing: border-box;
+    margin: auto;
+    border: 2px solid white;
+    width: 60vmin;
+    text-align: center;
+    font-size: 1.5rem;
+    min-height: 60vh;
+    border-radius: 30px;
+}
